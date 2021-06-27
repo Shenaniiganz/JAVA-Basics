@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CeltoFahr {
+public class CelciustoFahrenheit {
     public static void main (String[] args) {
 
         double C, F;
